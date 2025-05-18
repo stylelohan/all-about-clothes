@@ -1,0 +1,24 @@
+---
+const { title = "All About Clothes" } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+  <body style="font-family: sans-serif; max-width: 600px; margin: auto; padding: 2rem;">
+    <header>
+      <h1>All About Clothes</h1>
+      <hr />
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <hr />
+      <p style="font-size: 0.875rem; color: #666;">© 2025 All About Clothes</p>
+    </footer>
+  </body>
+</html>
