@@ -29,7 +29,7 @@
 12. [CLI](#-Commands)
 13. [Contributors](#-Contributors)
 
-## 💻 Demo
+## 💻 Demo 
 
 Check out the [Demo](https://blog-template-gray.vercel.app/), hosted on Vercel
 <br/>
