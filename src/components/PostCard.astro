@@ -5,7 +5,7 @@ import ArrowUp from '@/components/icons/ArrowUp'
 
 const {
 	id,
-	data: { title, description, pubDate, heroImage, category },
+	data: { title, pubDate, heroImage, category },
 	readTime,
 	slug
 } = Astro.props
@@ -42,12 +42,6 @@ const {
 					{title}
 				</a>
 			</div>
-
-			<p
-				class='overflow-hidden line-clamp-3 text-gray-700 dark:text-white mb-5 font-[400] md:pr-[15%]'
-			>
-				{description}
-			</p>
 		</div>
 
 		<footer class='flex justify-between items-center'>

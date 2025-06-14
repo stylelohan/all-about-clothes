@@ -1,6 +1,5 @@
 ---
-title: "認識羊毛:從產地到衣櫃"
-description: "種類、產地、選購、洗滌、收納"
+title: "認識羊毛：從產地到衣櫃"
 pubDate: 2025-05-18
 category: "Category 1"
 heroImage: "/public/images/wool.jpg"
