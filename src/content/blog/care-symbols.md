@@ -4,7 +4,6 @@ pubDate: 2025-07-07
 category: "Category 1"
 heroImage: "/public/images/wool.jpg"
 tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
-
 import CareSymbolCard from '../../components/CareSymbolCard.astro'
 ---
 
