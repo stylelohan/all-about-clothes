@@ -24,10 +24,11 @@ tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
 在洗滌槽下方的一條橫線表示較溫和的洗滌行程，機械作用力較低（例如輕柔洗程）。這種標示適合「易護理」或對機械作用特別敏感的衣物。
 若出現雙橫線，則表示非常溫和的洗滌行程（例如適用於羊毛製品）。
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/care-symbol/do-not-wash-256px.svg.png" alt="不可以水洗" style="width: 80px; margin-right: 16px;">
-  <p>完全禁止水洗。衣物可能對任何濕洗處理都非常敏感，或因尺寸原因不適合在家用洗衣機中清洗。</p>
-</div>
+<SymbolCard 
+  imgSrc="/images/care-symbol/do-not-wash-256px.svg.png" 
+  altText="不可以水洗" 
+  description="此符號表示完全禁止水洗。衣物可能對任何濕洗處理都非常敏感，或因尺寸原因不適合在家用洗衣機中清洗。" 
+/>
 
 ### 漂白標示(bleaching symbol)
 
