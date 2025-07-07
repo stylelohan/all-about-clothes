@@ -40,7 +40,7 @@ tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/care-symbol/30-mild-fine-wash-256px" alt="30°C 輕柔精細洗程" style="width: 80px; margin-right: 16px;">
+  <img src="/images/care-symbol/30-mild-fine-wash-256px.svg.png" alt="30°C 輕柔精細洗程" style="width: 80px; margin-right: 16px;">
   <p>適用於莫代爾、黏膠纖維、聚丙烯酸、聚酯纖維、聚醯胺等衣物。減少洗衣量，選擇合適的洗程。避免脫水或僅短暫脫水以降低皺摺風險。</p>
 </div>
 
@@ -85,8 +85,99 @@ tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
 </div>
 
 ### 漂白標示(bleaching symbol)
+三角形符號表示該衣物是否可以進行漂白處理。
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/oxygen-bleach-240px.svg.png" alt="只允許氧系漂白" style="width: 80px; margin-right: 16px;">
+  <p>帶有兩條斜線的三角形表示可以使用氧系漂白劑（通常含於萬用洗劑中），但不可使用氯系漂白劑。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/any-bleach-240px.svg.png" alt="可使用任何漂白劑" style="width: 80px; margin-right: 16px;">
+  <p>空心三角形表示可使用氯系和氧系漂白劑。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/no-bleach-240px.svg.png" alt="禁止漂白" style="width: 80px; margin-right: 16px;">
+  <p>帶有對角斜線（聖安德魯十字）的三角形表示禁止任何漂白處理。請僅使用不含漂白成分的洗劑。</p>
+</div>
+
 
 ### 乾燥標示(drying symbol)
+#### 滾筒烘乾（Tumble drying）
+方形符號表示乾燥程序。方形內的圓形表示可進行滾筒烘乾。滾筒內的點數表示烘乾的溫度強度。
+若沒有滾筒烘乾符號，則需依據洗滌和熨燙符號來判斷乾燥方式。
+允許的處理方式越強烈，乾燥方式就越簡單；洗滌和熨燙允許的強度越低，乾燥時就越需要謹慎。
+目前的程序說明並未對所有機器提供可明確適用於滾筒烘乾的纖維種類。
+
+#### 自然晾乾（Natural drying）
+方形內的橫線或豎線符號表示自然晾乾方式，包括懸掛晾乾、滴乾、平放晾乾、平放滴乾等。
+斜線表示需在陰涼處進行相應的自然晾乾方式。
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/drip-flat-drying-shade-240px.svg.png" alt="在陰涼處平放滴乾" style="width: 80px; margin-right: 16px;">
+  <p>在陰涼處平放滴乾。<br/>例如：羊毛外套</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/drip-line-drying-shade-240px.svg.png" alt="在陰涼處懸掛滴乾" style="width: 80px; margin-right: 16px;">
+  <p>在陰涼處懸掛滴乾。<br/>例如：絲質等精緻衣物</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/flat-drying-shade-240px.svg.png" alt="在陰涼處平放晾乾" style="width: 80px; margin-right: 16px;">
+  <p>在陰涼處平放晾乾。<br/>例如：羊毛或精緻衣物</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/drip-flat-drying-240px.svg.png" alt="平放滴乾" style="width: 80px; margin-right: 16px;">
+  <p>平放滴乾。<br/>例如：耐色但精緻的衣物</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/line-drying-shade-240px.svg.png" alt="在陰涼處懸掛晾乾" style="width: 80px; margin-right: 16px;">
+  <p>在陰涼處懸掛晾乾。<br/>例如：不耐色織物（絲質）</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/flat-drying-240px-svg.png" alt="平放晾乾" style="width: 80px; margin-right: 16px;">
+  <p>平放晾乾。<br/>例如：厚重、耐色衣物</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/line-drying-240px.svg.png" alt="懸掛晾乾" style="width: 80px; margin-right: 16px;">
+  <p>懸掛晾乾<br/>例如：所有耐色衣物</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/drip-line-drying.svg.png" alt="懸掛滴乾" style="width: 80px; margin-right: 16px;">
+  <p>懸掛滴乾<br/>例如：耐色的大型衣物，避免皺摺</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/natural-drying-256px.svg.png" alt="自然晾乾" style="width: 80px; margin-right: 16px;">
+  <p>自然晾乾<br/>方形內的橫線或豎線符號表示自然晾乾方式，包括懸掛晾乾、滴乾、懸掛滴乾、平放晾乾和平放滴乾。斜線則表示需在陰涼處進行對應的自然晾乾程序。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/normal-drying-240px.svg.png" alt="一般滾筒烘乾" style="width: 80px; margin-right: 16px;">
+  <p>一般滾筒烘乾<br/>可在正常負載和溫度（80°C）下進行滾筒烘乾，無特殊限制。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/mild-drying-240px.svg.png" alt="溫和滾筒烘乾" style="width: 80px; margin-right: 16px;">
+  <p>溫和滾筒烘乾<br/>進行滾筒烘乾時需注意，應選擇溫和程序，降低熱作用（約60°C）及縮短處理時間。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/tumble-drying-256px.svg.png" alt="滾筒烘乾" style="width: 80px; margin-right: 16px;">
+  <p>滾筒烘乾<br/>方形符號表示乾燥程序。方形中的圓形表示可滾筒烘乾。滾筒內的點數顯示允許的溫度強度。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/do-not-tumble-dry-256px.svg.png" alt="禁止滾筒烘乾" style="width: 80px; margin-right: 16px;">
+  <p>禁止滾筒烘乾<br/>不適合使用滾筒烘乾的衣物。</p>
+</div>
 
 ### 熨燙標示(ironing symbol)
 
