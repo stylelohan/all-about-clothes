@@ -140,7 +140,7 @@ tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/care-symbol/flat-drying-240px-svg.png" alt="平放晾乾" style="width: 80px; margin-right: 16px;">
+  <img src="/images/care-symbol/flat-drying-240pxsvg.png" alt="平放晾乾" style="width: 80px; margin-right: 16px;">
   <p>平放晾乾。<br/>例如：厚重、耐色衣物</p>
 </div>
 
@@ -180,6 +180,89 @@ tags: ['洗滌標示','洗衣標示','care symbol','laundry symbol']
 </div>
 
 ### 熨燙標示(ironing symbol)
+點的數量表示熨燙的溫度範圍（溫控、蒸汽、旅行熨斗及熨燙機）。
+最高溫度必須根據洗滌標示決定，而非紡織品的纖維成分。
+如果沒有洗標，建議依點的數量判斷而非纖維成分。
+若布料有壓紋效果或裝飾，熨燙時需特別小心。
+此外，有些衣物完全不可熨燙。
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/do-not-iron.svg.png" alt="禁止熨燙" style="width: 80px; margin-right: 16px;">
+  <p>禁止熨燙。<br/>若使用熨斗，可能會發生不可逆的損壞。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/iron-low-temp-240px.svg.png" alt="低溫熨燙" style="width: 80px; margin-right: 16px;">
+  <p>低溫熨燙。<br/>熨斗底板最高溫度120°C。適用於「聚丙烯腈纖維、尼龍、醋酸纖維」設定，若需熨燙光澤或壓力敏感部位，請使用墊布或反面熨燙。使用蒸汽熨燙可能造成不可逆損害。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/iron-moderate-temp.svg.png" alt="中溫熨燙" style="width: 80px; margin-right: 16px;">
+  <p>中溫熨燙。<br/>熨斗底板最高溫度160°C。適用於「羊毛、絲、聚酯纖維、人造絲」設定，建議在中等潮濕狀態下熨燙，可使用蒸汽熨斗，避免施加過大壓力。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/iron-hot.svg.png" alt="高溫熨燙" style="width: 80px; margin-right: 16px;">
+  <p>高溫熨燙。<br/>熨斗底板最高溫度210°C。適用於「棉、亞麻」設定，建議在衣物稍微潮濕時熨燙，必要時可再加濕；若需熨燙光澤或壓力敏感部位，請使用墊布或反面熨燙。。可使用蒸汽熨斗。</p>
+</div>
 
 ### 專業清洗標示(professional care symbol)
+此符號提供關於專業乾洗或專業水洗的可能性說明。圓形符號表示由專業人員進行的乾洗和水洗處理流程，並區分不同的清洗程序。
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/do-not-wet-clean-256px.svg.png" alt="禁止專業水洗" style="width: 80px; margin-right: 16px;">
+  <p>禁止專業水洗。<br/>不允許進行任何專業水洗。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/very-mild-wet-clean-256px.svg.png" alt="極溫和專業水洗" style="width: 80px; margin-right: 16px;">
+  <p>極溫和專業水洗。<br/>適用於極為敏感織物的水洗技術，機械作用大幅減低。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/mild-wet-clean-256px.svg.png" alt="溫和專業水洗" style="width: 80px; margin-right: 16px;">
+  <p>溫和專業水洗。<br/>適用於敏感織物的水洗技術，機械作用減低。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/wet-clean-256px-.svg.png" alt="專業水洗" style="width: 80px; margin-right: 16px;">
+  <p>專業水洗。<br/>正常的專業水洗方法，無特別限制。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/wet-clean-256px.svg.png" alt="水洗" style="width: 80px; margin-right: 16px;">
+  <p>水洗。<br/>此符號表示可進行專業水洗的衣物，專業水洗程序使用的設備、助劑和整理方法是家用洗衣機無法達成的。如出現下方其他符號，則會顯示在乾洗符號下方。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/do-not-dry-clean-256px.svg.png" alt="禁止專業乾洗" style="width: 80px; margin-right: 16px;">
+  <p>禁止專業乾洗。<br/>不允許任何專業乾洗。請勿使用含溶劑的去漬劑。</p>
+</div>
+
+<div style="display: flex; align-items: center;">    
+  <img src="/images/care-symbol/dry-cleaning-f--256px.svg.png" alt="石油溶劑專業乾洗（F）—溫和程序" style="width: 80px; margin-right: 16px;">
+  <p>石油溶劑專業乾洗（F）—溫和程序。<br/>在添加濕氣、機械作用和/或溫度上有嚴格限制的溫和清洗程序。不建議使用基於溶劑的商業去漬劑。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/dry-cleaning-f-256px.svg.png" alt="石油溶劑專業乾洗（F）—一般程序" style="width: 80px; margin-right: 16px;">
+  <p>石油溶劑專業乾洗（F）—一般程序。<br/>正常清洗程序，無任何限制。不建議使用基於溶劑的商業去漬劑。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/dry-cleaning-p--256px.svg.png" alt="四氯乙烯和石油溶劑專業乾洗（P）—溫和程序" style="width: 80px; margin-right: 16px;">
+  <p>四氯乙烯和石油溶劑專業乾洗（P）—溫和程序。<br/>在添加濕氣、機械作用和/或溫度上有嚴格限制的溫和清洗程序。基於溶劑的商業去漬劑可在某些限制下使用。建議先在衣物不顯眼處進行測試。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/dry-cleaning-p-256px.svg.png" alt="四氯乙烯和石油溶劑專業乾洗（P）—一般程序" style="width: 80px; margin-right: 16px;">
+  <p>四氯乙烯和石油溶劑專業乾洗（P）—一般程序。<br/>正常清洗程序，無任何限制。基於溶劑的商業去漬劑可在某些限制下使用。建議先在衣物不顯眼處進行測試。</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/care-symbol/dry-cleaning-256px.svg.png" alt="專業乾洗" style="width: 80px; margin-right: 16px;">
+  <p>專業乾洗。<br/>圓圈內的字母表示供專業紡織清洗人員參考的可用溶劑。圓圈下方的橫線表示乾洗過程中需要的限制條件，可能涉及機械作用、濕氣添加和/或烘乾溫度。選擇乾洗程序時，專業清洗人員還必須考慮布料種類和髒污程度（一般/溫和程序）。</p>
+</div>
+
+
 
